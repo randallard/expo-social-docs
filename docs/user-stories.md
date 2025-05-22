@@ -11,7 +11,7 @@ permalink: /docs/user-stories/
 This document contains comprehensive user stories organized by development phases and feature areas to guide our development process.
 
 ## Phase 1: MVP Foundation with Real-time Core
-[Acceptance Criteria]({{ '/docs/user-stories/phase1-acceptance-criteria.md' | relative_url }})
+[Acceptance Criteria]({{ '/docs/user-stories/phase1-acceptance-criteria' | relative_url }})
 
 ### Authentication & User Management
 **As a user, I want to log into the app with my credentials so that I can access my personalized account and data.**
