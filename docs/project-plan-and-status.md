@@ -51,7 +51,7 @@ This methodology ensures we maintain expertise while avoiding silos and bottlene
 
 ## User Stories
 
-We've created a comprehensive set of user stories to guide our development process. Key user stories include:
+We've created a comprehensive set of [user stories]({{ '/docs/user-stories' | relative_url }}) to guide our development process. Key user stories include:
 
 ### Authentication
 - **As a user, I want to log into the app with my credentials so that I can access my personalized account and data.**
